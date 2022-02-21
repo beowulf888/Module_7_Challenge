@@ -3,7 +3,7 @@
 
 In recent years, finance has had an explosion in passive investing. Passive investing means that you invest in a basket of assets that’s called an exchange-traded fund (ETF). This way, you don’t spend time researching individual stocks or companies or take the risk of investing in a single stock. ETFs offer more diversification.
 
-In this Challenge assignment, you’ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+In this Challenge assignment, we build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
 
 ---
@@ -18,20 +18,18 @@ The financial planner leverages Python 3.8+ and utilizes the following project l
 
 ---
 
-## Installation Guide
+## Screen Shots
+
+![image](https://user-images.githubusercontent.com/73894280/154877679-6635ab59-2048-433c-8de6-d31dd1b50642.png)
 
 
-Download Anaconda for your operating system and the latest Python version, run the installer, and follow the steps. Restart the terminal after completing the installation. Detailed instructions on how to install Anaconda can be found in the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/).
+![image](https://user-images.githubusercontent.com/73894280/154877720-6076a4a7-9cb2-493e-9c5f-9f5e7ba001e9.png)
 
-Install the PyViz Ecosystem
 
-PyViz is a Python visualization package that provides a single platform for accessing hvplot and GeoViews.
+![image](https://user-images.githubusercontent.com/73894280/154877729-b26308a0-8a7b-408c-9fe9-80b077780531.png)
 
-To install this library, run the following command in your terminal:
 
-```python
-conda install -c pyviz hvplot
-```
+![image](https://user-images.githubusercontent.com/73894280/154877748-4ac378b9-aa12-4c46-8db5-33b889b5f64d.png)
 
 ---
 
